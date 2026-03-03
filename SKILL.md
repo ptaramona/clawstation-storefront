@@ -25,8 +25,8 @@ ClawStation is a web-based dashboard for managing OpenClaw agent fleets. It prov
 
 ## Pricing
 
-- **Monthly:** $29/mo
-- **Lifetime:** $299 one-time
+- **SaaS:** $49/mo
+- **Self-Hosted:** $149 one-time
 
 Purchase at [clawstation.dev/buy](https://clawstation.dev/buy)
 

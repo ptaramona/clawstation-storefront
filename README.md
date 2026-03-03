@@ -54,8 +54,8 @@ Full mobile support. Check on your agents from anywhere.
 
 | Plan | Price | What You Get |
 |------|-------|--------------|
-| **Monthly** | $29/mo | Full access, managed updates, priority support |
-| **Lifetime** | $299 one-time | Self-hosted, run forever on your own infrastructure |
+| **SaaS** | $49/mo | Hosted, managed updates, priority support |
+| **Self-Hosted** | $149 one-time | Run forever on your own infrastructure |
 
 Both plans include all features. No feature gating. No per-agent fees.
 
