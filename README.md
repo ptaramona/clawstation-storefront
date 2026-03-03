@@ -102,16 +102,13 @@ Open `http://localhost:3000` — the setup wizard walks you through everything.
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Digital Office
-![Digital Office](screenshots/digital-office.png)
+![Dashboard](screenshots/dashboard.jpg)
 
 ### Org Chart
 ![Org Chart](screenshots/org-chart.png)
 
 ### Agent Files
-![Agent Files](screenshots/agent-files.png)
+![Agent Files](screenshots/agent-files.jpg)
 
 ---
 
