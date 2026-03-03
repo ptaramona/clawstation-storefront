@@ -4,7 +4,7 @@
 
 Monitor health, track tasks, visualize workflows, and orchestrate your entire agent network from one beautiful dashboard.
 
-[![ClawStation Dashboard](https://clawstation.dev/og-image.png)](https://clawstation.dev)
+[![ClawStation Dashboard](screenshots/dashboard.jpg)](https://clawstation.dev)
 
 ---
 
