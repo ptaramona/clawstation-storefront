@@ -101,13 +101,17 @@ Open `http://localhost:3000` — the setup wizard walks you through everything.
 
 ## Screenshots
 
-| Dashboard | Digital Office | Task Board |
-|-----------|---------------|------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Office](screenshots/digital-office.png) | ![Tasks](screenshots/task-board.png) |
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-| Agent Files | Workflows | Calendar |
-|-------------|-----------|----------|
-| ![Files](screenshots/agent-files.png) | ![n8n](screenshots/workflows.png) | ![Calendar](screenshots/calendar.png) |
+### Digital Office
+![Digital Office](screenshots/digital-office.png)
+
+### Org Chart
+![Org Chart](screenshots/org-chart.png)
+
+### Agent Files
+![Agent Files](screenshots/agent-files.png)
 
 ---
 
