@@ -59,7 +59,7 @@ Full mobile support. Check on your agents from anywhere.
 
 Both plans include all features. No feature gating. No per-agent fees.
 
-### 👉 [Get ClawStation](https://clawstation.dev/buy)
+### 👉 [Get ClawStation](https://clawstation.dev/#pricing)
 
 ---
 
